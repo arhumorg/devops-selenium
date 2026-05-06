@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class TestTechsol {
     private WebDriver driver;
     // CHANGE THIS TO YOUR CURRENT AWS IP
-    private final String BASE_URL = "[http://184.72.143.162/](http://184.72.143.162/)"; 
+    private final String BASE_URL = "http://13.50.241.67"; 
 
     @BeforeEach
     public void setUp() {
